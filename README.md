@@ -1,5 +1,8 @@
 # Carskeen
 
+# Main Page
+![Home Page](images/Mainpage.png)  
+
 Carskeen is a web application dedicated to automobile enthusiasts. It provides users with detailed information about various cars, including their specifications, features, and pricing. Built using HTML, CSS, and JavaScript, Carskeen offers a user-friendly interface and a visually appealing design.
 
 ## Design
