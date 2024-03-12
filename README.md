@@ -9,6 +9,8 @@ Carskeen is a web application dedicated to automobile enthusiasts. It provides u
 
 Carskeen employs a **Neumorphic design** approach, which is a modern trend that focuses on soft, subtle, and extruded shapes to mimic physical objects. This design style creates a sense of depth and dimensionality, providing a tactile and visually appealing user interface. The minimalist and monochromatic color scheme, along with subtle shadows and highlights, enhances the overall user experience by making it feel more intuitive and familiar.
 
+![Design](images/neomor.png)  
+
 ## Features
 - **Design**: Incorporating Neumorphic design, Carskeen elegantly simulates real-world tactility and depth, enhancing user engagement through its soft, digital aesthetic
 - **Car Catalog**: Browse through a comprehensive list of cars with detailed information.
